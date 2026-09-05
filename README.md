@@ -18,6 +18,6 @@ RegexIt will display the matches in the result box with live updates.
 * Python 3.x
 * PyQt5
 ## License
-—— All Rights Reserved [Request Timeout](https://github.com/RequestTimeout)
+— All Rights Reserved [Request Timeout](https://github.com/RequestTimeout)
 
 [LICENSE](LICENSE.md)
