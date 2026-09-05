@@ -1,5 +1,7 @@
 # <div align="center">RegexIt</div>
 A small GUI regex tester made with Python and PyQt5.
+
+For more information, click [here](HowTo.md).
 ## Features
 * Test regular expressions
 * Shows all matches
